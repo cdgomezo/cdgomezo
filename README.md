@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdgomezo
 - 👀 I’m interested in spatial data science using Python.
-- 🌱 I’m currently doing my PhD in Physical Geography and Ecosystem Science.
+- 🌱 I’m currently doing a Postdoc at the Department of Physical Geography and Ecosystem Science (LU).
 - 💞️ I’m looking to collaborate on developing spatial visualization tools.
 - 📫 How to reach me: carlos.gomez@nateko.lu.se
 
